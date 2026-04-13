@@ -1,4 +1,5 @@
-🍷 Monitor de Luminosidade para Vinheria\* 
+🍷 Monitor de Luminosidade para Vinheria
+
 Este projeto utiliza um Arduino para monitorar os níveis de luz em ambientes de armazenamento de vinho (adegas).
 O sistema categoriza a luminosidade em três níveis (Baixa, Média e Alta), fornecendo alertas visuais via display LCD e LEDs, além de um alarme sonoro para níveis de luz prejudiciais.
 
