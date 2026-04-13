@@ -11,6 +11,7 @@ Leitura Percentual: Converte o sinal analógico do sensor LDR para uma escala de
 Interface LCD: Exibe o status da luminosidade e a porcentagem em tempo real, com ícones customizados (Sol e Alerta).
 
 Indicadores LED: \* 
+
 🟢 Verde: Luminosidade ideal (Baixa).
 
 🟡 Amarelo: Luminosidade média (Atenção).
