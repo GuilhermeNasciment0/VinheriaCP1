@@ -73,7 +73,9 @@ O sistema opera baseado em faixas de intensidade luminosa:
 
 Luminosidade Baixa (0% - 20%): Estado ideal para vinhos. Apenas o LED verde acende.
 
-Luminosidade Média (21% - 50%): Estado de alerta. O LED amarelo acende, o ícone de exclamação aparece no LCD e o buzzer é ativado.Luminosidade Alta (> 50%): Estado crítico. O LED vermelho acende, o display exibe "Alta!" e o buzzer permanece ativo.
+Luminosidade Média (21% - 50%): Estado de alerta. O LED amarelo acende, o ícone de exclamação aparece no LCD e o buzzer é ativado.
+
+Luminosidade Alta (> 50%): Estado crítico. O LED vermelho acende, o display exibe "Alta!" e o buzzer permanece ativo.
 
 
 📂 Como Usar
