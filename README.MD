@@ -34,13 +34,13 @@ Alerta Sonoro: O buzzer é acionado automaticamente se a luz ultrapassar o níve
 
 1x Display LCD 16x2
 
-1x Potenciômetro (para ajuste de contraste do LCD)
-
-1x Sensor de Luz LDR
+1x Sensor de Luz LDR Fotoresistor
 
 3x LEDs (Verde, Amarelo e Vermelho)
 
-1x BuzzerResistores adequados para os LEDs e LDR
+1x Buzzer
+
+Resistores adequados para os LEDs e LDR
 
 Jumpers e Protoboard
 
